@@ -2,7 +2,7 @@
 * Authors: Ian D. Cowling, Oleg A. Yakimenko, James F. Whidborne, and Alastair K. Cooke
 * Venue: IEEE
 * Year: 2007
-* Reviewed By: Keith Russell
+* Reviewed By: Keith Russell, Samrat Patel
 
 ### Broad area/overview
 This paper is concerned with autonomy of quadrotor UAVs.  Specifically, the task of creating a controller which can incorporates both trajectory planning and path following.  
