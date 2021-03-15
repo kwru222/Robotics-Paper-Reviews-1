@@ -20,8 +20,7 @@ With the cost of lithium ion batteries being cheaper than ever before, as well a
 * Wind and added error were factored into the controller to test for robustness and disturbance rejjection as well.
 
 ### Comments
-* 
+* This paper demonstrated a very thorough design process for creating an autonomous controller.
+* While the constraints and trajectories imlemented in the paper are quite simple, this paper manages to create a very good working model from which more complicated obstacle and vehicle avoidance can be added in.
 
-### Citations
 
-[1] https://docs.opencv.org/master/dc/d0d/tutorial_py_features_harris.html
