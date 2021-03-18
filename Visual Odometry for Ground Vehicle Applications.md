@@ -1,24 +1,15 @@
 
 @def review = true
-@def tags = ["reviews","learning","control","analysis","optimization"]
-@def reviewers = ["Hasan Poonawala","reviewer no. 2","reviewer no. 3"]
+@def tags = ["reviews"]
+@def reviewers = ["Keith Russell"]
 @def hasmath = true
 @def class = "journal"
-@def authors = "Poonawala, H.A.; Lauffer, N.;Topcu, U.;"
-@def title = "Training Classifiers For Feedback Control With Safety In Mind"
-@def venue = "Automatica"
-@def year = "2021"
+@def authors = "David Nister; Oleg Naroditsky; James Bergen;"
+@def title = "Visual Odometry for Ground Based Vehicle Applications"
+@def venue = "Wiley"
+@def year = "2005"
 
 \toc
-
-
-# Visual Odometry for Ground Based Vehicle Applications
-* Authors: David Nister, Oleg Naroditsky, James Bergen
-* Venue: Wiley
-* Year: 2005
-* Reviewed By: Keith Russell
-
-
 
 ### Broad area/overview
 This paper details a vision-based motion estimation system, using either a single or stereo camera.  Their system works in real time and is able to accurately track the motion of the camera relative to baseline GPS data.
