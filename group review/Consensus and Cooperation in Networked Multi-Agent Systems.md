@@ -1,8 +1,17 @@
-# Consensus and Cooperation in Networked Multi-Agent Systems
-* Authors: Reza Olfati-Saber, J. Alex Fax, and Richard M. Murray
-* Venue: IEEE
-* Year: 2007
-* Reviewed By: Keith Russell, Samrat Patel
+
+@def review = true
+@def tags = ["reviews"]
+@def reviewers = ["Keith Russell, Samrat Patel"]
+@def hasmath = true
+@def class = "journal"
+@def authors = "Reza Olfati-Saber; J. Alex Fax; Richard M. Murray;"
+@def title = "Consensus and Cooperation in Networked Multi-Agent Systems"
+@def venue = "IEEE"
+@def year = "2007"
+
+\toc
+
+\toc
 
 ### Broad area/overview
  The purpose of this paper is to present an overview of theoretical elements and practical uses of consensus algorithms, and to demonstrate the close relation of seemingly different consensus algorithms.  
