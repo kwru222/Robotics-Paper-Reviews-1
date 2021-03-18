@@ -1,8 +1,18 @@
-# A Prototype of an Autonomous Controller for a Quadrotor UAV
-* Authors: Ian D. Cowling, Oleg A. Yakimenko, James F. Whidborne, and Alastair K. Cooke
-* Venue: IEEE
-* Year: 2007
-* Reviewed By: Keith Russell, Samrat Patel
+
+@def review = true
+@def tags = ["reviews"]
+@def reviewers = ["Keith Russell, Samrat Patel"]
+@def hasmath = true
+@def class = "journal"
+@def authors = "Ian D. Cowling; Oleg A. Yakimenko; James F. Whidborne; and Alastair K. Cooke;"
+@def title = "A Prototype of an Autonomous Controller for a Quadrotor UAV"
+@def venue = "IEEE"
+@def year = "2007"
+
+\toc
+
+
+\toc
 
 ### Broad area/overview
 This paper is concerned with autonomy of quadrotor UAVs.  Specifically, the task of creating a controller which can incorporates both trajectory planning and path following.  
