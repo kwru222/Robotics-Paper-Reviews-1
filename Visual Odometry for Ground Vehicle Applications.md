@@ -11,6 +11,9 @@
 
 \toc
 
+
+\toc
+
 ### Broad area/overview
 This paper details a vision-based motion estimation system, using either a single or stereo camera.  Their system works in real time and is able to accurately track the motion of the camera relative to baseline GPS data.
 
