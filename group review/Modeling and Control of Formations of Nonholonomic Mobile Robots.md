@@ -1,9 +1,16 @@
-# Modelling and Control of Formation of Nonholonomic Mobile Robots
-* Authors: Jaydev P. Desai, James P. Ostrowski, and Vijay Kumar
-* Venue: IEEE
-* Year: 2001
-* Reviewed By: Keith Russell, Samrat Patel
+@def review = true 
+@def tags = ["reviews"] 
+@def reviewers = ["Keith Russell, Samrat Patel"] 
+@def hasmath = true 
+@def class = "journal" 
+@def authors = "Jaydev P. Desai; James P. Ostrowski; and Vijay Kumar;" 
+@def title = "Modelling and Control of Formation of Nonholonomic Mobile Robots" 
+@def venue = "IEEE" 
+@def year = "2001"
 
+\toc
+
+\toc
 
 ### Broad Area Overview
 
