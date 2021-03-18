@@ -1,9 +1,3 @@
-# Visual Odometry for Ground Based Vehicle Applications
-* Authors: David Nister, Oleg Naroditsky, James Bergen
-* Venue: Wiley
-* Year: 2005
-* Reviewed By: Keith Russell
-
 
 @def review = true
 @def tags = ["reviews","learning","control","analysis","optimization"]
@@ -16,6 +10,15 @@
 @def year = "2021"
 
 \toc
+
+
+# Visual Odometry for Ground Based Vehicle Applications
+* Authors: David Nister, Oleg Naroditsky, James Bergen
+* Venue: Wiley
+* Year: 2005
+* Reviewed By: Keith Russell
+
+
 
 ### Broad area/overview
 This paper details a vision-based motion estimation system, using either a single or stereo camera.  Their system works in real time and is able to accurately track the motion of the camera relative to baseline GPS data.
